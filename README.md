@@ -145,6 +145,3 @@ The experiments demonstrated that:
 - KNN classification achieved strong predictive performance after dimensionality reduction
 
 The project highlights how unsupervised learning and NLP techniques can analyze online media and headline behavior.
-
-
-└── requirements.txt
